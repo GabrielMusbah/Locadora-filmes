@@ -1,0 +1,2 @@
+<script src="<?php echo e(mix('js/app.js')); ?>"></script>
+<?php /**PATH C:\Users\Debi daPupu\Desktop\programacao\projeto Plantae\ProjetoDoZero\projeto do zero\resources\views/partials/footer.blade.php ENDPATH**/ ?>
